@@ -1,6 +1,6 @@
 # Data comparison and synchronization
 
-This PowerShell script is designed for data comparison and synchronization between two MySQL databases using the command-line interface of dbForge Studio for MySQL.
+This PowerShell script is designed for data comparison and synchronization between two MySQL databases using the command-line interface of [dbForge Studio for MySQL](https://www.devart.com/dbforge/mysql/studio/).
 
 ## [data-compare-sync.ps1](data-compare-sync.ps1)
 
