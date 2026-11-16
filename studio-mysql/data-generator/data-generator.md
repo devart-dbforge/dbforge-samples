@@ -1,6 +1,6 @@
 # MySQL data generator
 
-This PowerShell script is intended for generating test data in a MySQL database using the command-line interface of dbForge Studio for MySQL.
+This PowerShell script is intended for generating test data in a MySQL database using the command-line interface of [dbForge Studio for MySQL](https://www.devart.com/dbforge/mysql/studio/).
 
 ## [data-generator.ps1](data-generator.ps1)
 
