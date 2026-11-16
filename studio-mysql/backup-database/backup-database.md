@@ -1,6 +1,6 @@
 # Database backup
 
-This PowerShell script creates a MySQL database backup using the command-line interface of dbForge Studio for MySQL.
+This PowerShell script creates a MySQL database backup using the command-line interface of [dbForge Studio for MySQL](https://www.devart.com/dbforge/mysql/studio/).
 
 ## [backup-database.ps1](backup-database.ps1)
 
