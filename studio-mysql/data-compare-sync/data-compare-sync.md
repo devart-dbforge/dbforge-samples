@@ -4,7 +4,7 @@ This PowerShell script is designed for data comparison and synchronization betwe
 
 ## [data-compare-sync.ps1](data-compare-sync.ps1)
 
-The script performs a row-level MySQL data comparison between the source and target databases, detecting all INSERT, UPDATE, and DELETE differences, and generates a SQL script to resolve them. This is a comprehensive MySQL data comparison tool for detecting and fixing data drift between environments.
+The script performs a row-level MySQL data comparison between the source and target databases, detecting all INSERT, UPDATE, and DELETE differences, and generates a SQL script to resolve them. This comprehensive MySQL data comparison tool detects and fixes data drift between environments.
 
 The script supports two modes:
 
